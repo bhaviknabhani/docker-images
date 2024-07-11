@@ -1,0 +1,48 @@
+{
+    "images": [
+      {
+        "name": "",
+        "summary": "",
+        "description": "",
+        "last_updated": "",
+        "published": "",
+        "license": "",
+        "category": "",
+        "usage_text": {
+          "pull": {
+            "title": "To pull the latest image",
+            "description": "",
+            "command": ""
+          },
+          "usage": {
+            "title": "Run the Docker Container",
+            "description": "",
+            "command": ""
+          }
+        },
+        "tags": [
+          {
+            "name": "",
+            "architecture": "amd64",
+            "platform": "alpine",
+            "envr": "prod",
+            "label": "",
+            "sbom": "",
+            "imageurl": "",
+            "size": "",
+            "updated": ""
+          }
+        ],
+        "advisory": [
+          {
+            "CVEID": "",
+            "packgename": "",
+            "version": "",
+            "score": "",
+            "affected": "",
+            "fixed": ""
+          }
+        ]
+      }
+    ]
+  }
